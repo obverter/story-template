@@ -228,4 +228,9 @@ cython_debug/
 # Ignore code-workspaces
 *.code-workspace
 
+# Ignore IDE Formatters
+.prettierignore
+.prettierrc
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jupyternotebooks,osx
